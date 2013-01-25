@@ -1,4 +1,4 @@
 vteial.github.com
 =================
 
-My Blog
+You know about me from [here](http://vteial.github.com/)
