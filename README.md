@@ -1,3 +1,3 @@
-# vteial.github.io
+# About Me
 
-You know about me from [here](http://vteial.github.io/)
+You can know about me from [here](http://vteial.github.io/aboutme/)
