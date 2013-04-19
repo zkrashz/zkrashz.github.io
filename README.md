@@ -1,3 +1,3 @@
 # About Me
 
-You can know about me from [here](http://vteial.github.io/aboutme/)
+Source repository for my static site which speaks about [me](http://vteial.github.io/aboutme)
